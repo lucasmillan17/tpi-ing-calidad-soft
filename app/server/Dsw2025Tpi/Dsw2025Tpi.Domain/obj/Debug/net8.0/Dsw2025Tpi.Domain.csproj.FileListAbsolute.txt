@@ -1,0 +1,12 @@
+C:\Users\lucas\OneDrive - frt.utn.edu.ar\Facultad\3ro\dsw\Dsw2025Tpi\Dsw2025Tpi\Dsw2025Tpi.Domain\bin\Debug\net8.0\Dsw2025Tpi.Domain.deps.json
+C:\Users\lucas\OneDrive - frt.utn.edu.ar\Facultad\3ro\dsw\Dsw2025Tpi\Dsw2025Tpi\Dsw2025Tpi.Domain\bin\Debug\net8.0\Dsw2025Tpi.Domain.dll
+C:\Users\lucas\OneDrive - frt.utn.edu.ar\Facultad\3ro\dsw\Dsw2025Tpi\Dsw2025Tpi\Dsw2025Tpi.Domain\bin\Debug\net8.0\Dsw2025Tpi.Domain.pdb
+C:\Users\lucas\OneDrive - frt.utn.edu.ar\Facultad\3ro\dsw\Dsw2025Tpi\Dsw2025Tpi\Dsw2025Tpi.Domain\obj\Debug\net8.0\Dsw2025Tpi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive - frt.utn.edu.ar\Facultad\3ro\dsw\Dsw2025Tpi\Dsw2025Tpi\Dsw2025Tpi.Domain\obj\Debug\net8.0\Dsw2025Tpi.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive - frt.utn.edu.ar\Facultad\3ro\dsw\Dsw2025Tpi\Dsw2025Tpi\Dsw2025Tpi.Domain\obj\Debug\net8.0\Dsw2025Tpi.Domain.AssemblyInfo.cs
+C:\Users\lucas\OneDrive - frt.utn.edu.ar\Facultad\3ro\dsw\Dsw2025Tpi\Dsw2025Tpi\Dsw2025Tpi.Domain\obj\Debug\net8.0\Dsw2025Tpi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - frt.utn.edu.ar\Facultad\3ro\dsw\Dsw2025Tpi\Dsw2025Tpi\Dsw2025Tpi.Domain\obj\Debug\net8.0\Dsw2025Tpi.Domain.sourcelink.json
+C:\Users\lucas\OneDrive - frt.utn.edu.ar\Facultad\3ro\dsw\Dsw2025Tpi\Dsw2025Tpi\Dsw2025Tpi.Domain\obj\Debug\net8.0\Dsw2025Tpi.Domain.dll
+C:\Users\lucas\OneDrive - frt.utn.edu.ar\Facultad\3ro\dsw\Dsw2025Tpi\Dsw2025Tpi\Dsw2025Tpi.Domain\obj\Debug\net8.0\refint\Dsw2025Tpi.Domain.dll
+C:\Users\lucas\OneDrive - frt.utn.edu.ar\Facultad\3ro\dsw\Dsw2025Tpi\Dsw2025Tpi\Dsw2025Tpi.Domain\obj\Debug\net8.0\Dsw2025Tpi.Domain.pdb
+C:\Users\lucas\OneDrive - frt.utn.edu.ar\Facultad\3ro\dsw\Dsw2025Tpi\Dsw2025Tpi\Dsw2025Tpi.Domain\obj\Debug\net8.0\ref\Dsw2025Tpi.Domain.dll

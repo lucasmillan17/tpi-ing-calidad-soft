@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1F7E28-184B-4B7A-8C2E-BE3D7BF65F67}|Dsw2025Tpi.Api\\Dsw2025Tpi.Api.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1F7E28-184B-4B7A-8C2E-BE3D7BF65F67}|Dsw2025Tpi.Api\\Dsw2025Tpi.Api.csproj|solutionrelative:dsw2025tpi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1F7E28-184B-4B7A-8C2E-BE3D7BF65F67}|Dsw2025Tpi.Api\\Dsw2025Tpi.Api.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.api\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1F7E28-184B-4B7A-8C2E-BE3D7BF65F67}|Dsw2025Tpi.Api\\Dsw2025Tpi.Api.csproj|solutionrelative:dsw2025tpi.api\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B93C6-D34C-409A-AAF4-908795FFEB4E}|Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.data\\authenticatecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B93C6-D34C-409A-AAF4-908795FFEB4E}|Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj|solutionrelative:dsw2025tpi.data\\authenticatecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD606BCA-F693-45E2-A6BD-3C7FCBADE0D2}|Dsw2025Tpi.Application\\Dsw2025Tpi.Application.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.application\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD606BCA-F693-45E2-A6BD-3C7FCBADE0D2}|Dsw2025Tpi.Application\\Dsw2025Tpi.Application.csproj|solutionrelative:dsw2025tpi.application\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD606BCA-F693-45E2-A6BD-3C7FCBADE0D2}|Dsw2025Tpi.Application\\Dsw2025Tpi.Application.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.application\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD606BCA-F693-45E2-A6BD-3C7FCBADE0D2}|Dsw2025Tpi.Application\\Dsw2025Tpi.Application.csproj|solutionrelative:dsw2025tpi.application\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1F7E28-184B-4B7A-8C2E-BE3D7BF65F67}|Dsw2025Tpi.Api\\Dsw2025Tpi.Api.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1F7E28-184B-4B7A-8C2E-BE3D7BF65F67}|Dsw2025Tpi.Api\\Dsw2025Tpi.Api.csproj|solutionrelative:dsw2025tpi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD606BCA-F693-45E2-A6BD-3C7FCBADE0D2}|Dsw2025Tpi.Application\\Dsw2025Tpi.Application.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD606BCA-F693-45E2-A6BD-3C7FCBADE0D2}|Dsw2025Tpi.Application\\Dsw2025Tpi.Application.csproj|solutionrelative:dsw2025tpi.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6623891D-E73F-46D7-AF28-BAF345304820}|Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6623891D-E73F-46D7-AF28-BAF345304820}|Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj|solutionrelative:dsw2025tpi.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD606BCA-F693-45E2-A6BD-3C7FCBADE0D2}|Dsw2025Tpi.Application\\Dsw2025Tpi.Application.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.application\\dtos\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD606BCA-F693-45E2-A6BD-3C7FCBADE0D2}|Dsw2025Tpi.Application\\Dsw2025Tpi.Application.csproj|solutionrelative:dsw2025tpi.application\\dtos\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B93C6-D34C-409A-AAF4-908795FFEB4E}|Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.data\\repositories\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B93C6-D34C-409A-AAF4-908795FFEB4E}|Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj|solutionrelative:dsw2025tpi.data\\repositories\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1F7E28-184B-4B7A-8C2E-BE3D7BF65F67}|Dsw2025Tpi.Api\\Dsw2025Tpi.Api.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1F7E28-184B-4B7A-8C2E-BE3D7BF65F67}|Dsw2025Tpi.Api\\Dsw2025Tpi.Api.csproj|solutionrelative:dsw2025tpi.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6623891D-E73F-46D7-AF28-BAF345304820}|Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.domain\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6623891D-E73F-46D7-AF28-BAF345304820}|Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj|solutionrelative:dsw2025tpi.domain\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6623891D-E73F-46D7-AF28-BAF345304820}|Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6623891D-E73F-46D7-AF28-BAF345304820}|Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj|solutionrelative:dsw2025tpi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6623891D-E73F-46D7-AF28-BAF345304820}|Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6623891D-E73F-46D7-AF28-BAF345304820}|Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj|solutionrelative:dsw2025tpi.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B93C6-D34C-409A-AAF4-908795FFEB4E}|Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.data\\dsw2025tpicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B93C6-D34C-409A-AAF4-908795FFEB4E}|Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj|solutionrelative:dsw2025tpi.data\\dsw2025tpicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6623891D-E73F-46D7-AF28-BAF345304820}|Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6623891D-E73F-46D7-AF28-BAF345304820}|Dsw2025Tpi.Domain\\Dsw2025Tpi.Domain.csproj|solutionrelative:dsw2025tpi.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B93C6-D34C-409A-AAF4-908795FFEB4E}|Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.data\\migrations\\dsw2025tpicontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B93C6-D34C-409A-AAF4-908795FFEB4E}|Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj|solutionrelative:dsw2025tpi.data\\migrations\\dsw2025tpicontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34B93C6-D34C-409A-AAF4-908795FFEB4E}|Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.data\\helpers\\dbcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34B93C6-D34C-409A-AAF4-908795FFEB4E}|Dsw2025Tpi.Data\\Dsw2025Tpi.Data.csproj|solutionrelative:dsw2025tpi.data\\helpers\\dbcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD606BCA-F693-45E2-A6BD-3C7FCBADE0D2}|Dsw2025Tpi.Application\\Dsw2025Tpi.Application.csproj|c:\\users\\lucas\\onedrive - frt.utn.edu.ar\\facultad\\3ro\\dsw\\dsw2025tpi\\dsw2025tpi\\dsw2025tpi.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD606BCA-F693-45E2-A6BD-3C7FCBADE0D2}|Dsw2025Tpi.Application\\Dsw2025Tpi.Application.csproj|solutionrelative:dsw2025tpi.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Application\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Application\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Application\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Application\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:23:25.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Application\\Dtos\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Application\\Dtos\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Application\\Dtos\\LoginModel.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Application\\Dtos\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:36:53.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T18:36:05.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Api\\Program.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Api\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwEMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:57:43.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:34:34.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:34:21.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:34:04.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwGEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T03:58:42.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Api\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Api\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Api\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Api\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T14:55:38.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticateContext.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Data\\AuthenticateContext.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Data\\AuthenticateContext.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Data\\AuthenticateContext.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Data\\AuthenticateContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:02:09.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T00:35:12.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Data\\Repositories\\EfRepository.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Data\\Repositories\\EfRepository.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Data\\Repositories\\EfRepository.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Data\\Repositories\\EfRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:52:39.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Application\\Dtos\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Application\\Dtos\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Application\\Dtos\\ProductModel.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Application\\Dtos\\ProductModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwv0EAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:53:35.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T23:53:52.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Domain\\Entities\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Domain\\Entities\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Domain\\Entities\\EntityBase.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Domain\\Entities\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T00:58:03.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dsw2025TpiContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Data\\Migrations\\Dsw2025TpiContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Data\\Migrations\\Dsw2025TpiContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Data\\Migrations\\Dsw2025TpiContextModelSnapshot.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Data\\Migrations\\Dsw2025TpiContextModelSnapshot.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:16:30.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dsw2025TpiContext.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Data\\Dsw2025TpiContext.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Data\\Dsw2025TpiContext.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Data\\Dsw2025TpiContext.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Data\\Dsw2025TpiContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:02:07.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DbContextExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Data\\Helpers\\DbContextExtensions.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Data\\Helpers\\DbContextExtensions.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Data\\Helpers\\DbContextExtensions.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Data\\Helpers\\DbContextExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:01:57.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Dsw2025Tpi.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive - frt.utn.edu.ar\\Facultad\\3ro\\dsw\\Dsw2025Tpi\\Dsw2025Tpi\\Dsw2025Tpi.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "Dsw2025Tpi.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T18:07:09.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
